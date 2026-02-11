@@ -1,12 +1,10 @@
 package parallel.forkjoin;
 
-import util.MyLogger;
+import static util.MyLogger.log;
 
 import java.util.List;
 import java.util.concurrent.ForkJoinPool;
 import java.util.stream.IntStream;
-
-import static util.MyLogger.*;
 
 public class ForkJoinMain1 {
 

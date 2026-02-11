@@ -1,7 +1,5 @@
 package parallel.forkjoin;
 
-import util.MyLogger;
-
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
